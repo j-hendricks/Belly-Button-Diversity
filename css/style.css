@@ -1,9 +1,12 @@
 body {
-    background-color: rgb(147, 213, 213);
+    background-image: url("https://www.proprofs.com/quiz-school/topic_images/p1akad4j481ruq3guga19d91uej3.jpg");
+    background-size: 100% 100%;
+    text-align: center;
 }
 
 .jumbotron {
-    background-image: url("/Users/johnwhendricks/Desktop/classFolder/Belly-Button-Diversity/images/bio_image.jpg");
+    background-image: url("https://www.sciencealert.com/images/2022-06/processed/BlueRodShapesFloatingOnALightBlueBackground_1024.jpg");
     background-size: 100% 100%;
     text-align: center;
+
 }
