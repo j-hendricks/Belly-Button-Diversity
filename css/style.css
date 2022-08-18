@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(147, 213, 213);
+}
+
+.jumbotron {
+    background-image: url("/Users/johnwhendricks/Desktop/classFolder/Belly-Button-Diversity/images/bio_image.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
