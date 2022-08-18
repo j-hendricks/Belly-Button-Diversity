@@ -114,7 +114,7 @@ function buildCharts(sample) {
   }];
     // 9. Create the layout for the bar chart. 
     var barLayout = {
-      title: "Title",
+      title: "Top 10 Bacteria Cultures Found",
       height: 400,
       width: 350
     };
