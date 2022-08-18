@@ -6,11 +6,9 @@ This webpage visualizes data of bacterial samples, which were extracted from the
 
 ## Images
 
-The webpage initially displays as seen in the following two images. Data for the first subject, ID 940, is shown by default when the page is first uploaded.
+The webpage initially displays as seen in the following image. Data for the first subject, ID 940, is shown by default when the page is first uploaded.
 
 ![page_top](images/page_top.png)
-
-![page_bottom](images/page_bottom.png)
 
 To change the sample displayed, click the dropdown menu under "Test Subject ID No." and click the id of your choosing.
 
